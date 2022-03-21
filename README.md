@@ -11,7 +11,11 @@ This process demands a **NotificationChannel** and a **NotificationManager**. Th
 ## Features
 The setting of this program is a reminder app. The user can create a new reminder by filling values in the EditText field and the TimePicker.
 Clicking the Button sets the reminder. This means that the Notification will be shown at the time chosen by the user.
-It stays in the Notification Center of the phone afterwards.
+It stays in the Notification Center of the phone afterwards. </br>
+
+![](demo_pictures/Screen1.png)
+![](demo_pictures/Screen2.png)
+![](demo_pictures/Screen3.png)
 
 ## Usage
 You can clone the repository into Android Studio by clicking "Get from VCS" in the Welcome Screen or navigating to "File - New - Project from Version Control" inside 
